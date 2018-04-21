@@ -1,0 +1,24 @@
+{
+  "name": "node-handbrake",
+  "version": "1.0.0",
+  "description": "node controlled handbrake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dambergn/node-handbrake.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dambergn/node-handbrake/issues"
+  },
+  "homepage": "https://github.com/dambergn/node-handbrake#readme",
+  "dependencies": {
+    "handbrake-js": "^3.0.2",
+    "node-cmd": "^3.0.0"
+  }
+}
